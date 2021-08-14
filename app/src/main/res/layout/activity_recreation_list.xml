@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Nim : 10118348
+Nama : Muhammad Novel Z
+Kelas : IF8
+Tanggal Pengerjaan : 11 Agustus 2021
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RecreationList"
+    android:orientation="vertical"
+    android:layout_margin="25sp"
+    android:gravity="center">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/tempat_wisata"
+        android:id="@+id/tmptwst"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/alamat"
+        android:id="@+id/alamat"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/tarif"
+        android:id="@+id/tarif"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/rating"
+        android:id="@+id/rating"/>
+
+    <Button
+        android:layout_width="116dp"
+        android:layout_height="50dp"
+        android:insetLeft="0dp"
+        android:text="Save"
+        android:id="@+id/btn_save"/>
+    <Button
+    android:layout_width="116dp"
+    android:layout_height="50dp"
+    android:insetLeft="0dp"
+    android:text="Add"
+    android:id="@+id/btn_add"/>
+    <Button
+        android:layout_width="116dp"
+        android:layout_height="50dp"
+        android:insetLeft="0dp"
+        android:text="View"
+        android:id="@+id/btn_view"/>
+    <Button
+        android:layout_width="116dp"
+        android:layout_height="50dp"
+        android:insetLeft="0dp"
+        android:text="Delete"
+        android:id="@+id/btn_delete"/>
+
+
+
+</LinearLayout>

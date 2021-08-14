@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "249956926394",
+    "firebase_url": "https://mappinguas-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mappinguas",
+    "storage_bucket": "mappinguas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249956926394:android:6f869743f91d415c721383",
+        "android_client_info": {
+          "package_name": "com.example.akb_uas_10118348"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249956926394-fd9273oaunerbdam8g9882bu4o3qbqos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akb_uas_10118348",
+            "certificate_hash": "63e5c8069e27d4f95711b276305ff65e20181ce1"
+          }
+        },
+        {
+          "client_id": "249956926394-a2kkohfa2cd5aut3rlr7dhchl875sipi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmEXENZ5MsHc2R8lxzfX2OK40cRTZ1bCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249956926394-a2kkohfa2cd5aut3rlr7dhchl875sipi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249956926394:android:925e360a319374c6721383",
+        "android_client_info": {
+          "package_name": "com.example.uas_10118348_akb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249956926394-a2kkohfa2cd5aut3rlr7dhchl875sipi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmEXENZ5MsHc2R8lxzfX2OK40cRTZ1bCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249956926394-a2kkohfa2cd5aut3rlr7dhchl875sipi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

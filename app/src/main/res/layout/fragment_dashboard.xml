@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Nim : 10118348
+Nama : Muhammad Novel Z
+Kelas : IF8
+Tanggal Pengerjaan : 11 Agustus 2021
+-->
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".ui.dashboard.DashboardFragment">
+
+    <RelativeLayout
+        android:id="@+id/view_map"
+        android:layout_width="150sp"
+        android:layout_height="150sp"
+        android:layout_marginBottom="50sp"
+        android:gravity="center"
+        android:text="View Map"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/view_map_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="Themap"
+        android:text="View Map" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

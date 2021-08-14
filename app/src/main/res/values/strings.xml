@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UAS-10118348-AKB</string>
+    <string name="title_home">Profile</string>
+    <string name="title_dashboard">Location</string>
+    <string name="title_notifications">Info For Spots</string>
+    <string name="email_address">Novelzalsastian2020@gmail.com</string>
+    <string name="my_name">Muhammad Novel Zalsastian</string>
+    <string name="faculty">Universitas Komputer Indonesia</string>
+    <string name="Department">Teknik Informatika</string>
+    <string name="Class">IF8</string>
+    <string name="Nim">10118348</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiemFsc2FzdGlhbjIwMjAiLCJhIjoiY2tzYjU1ZXV5MDNoNTJucGl2bXZiZ3I0MiJ9.pWC4Z1-q4hbHxaCsSim14w</string>
+    <string name="view_listings_of_recreational">View Listings Of Recreational</string>
+    <string name="tempat_wisata">Tempat Wisata</string>
+    <string name="alamat">Alamat</string>
+    <string name="tarif">Tarif</string>
+    <string name="rating">Rating</string>
+</resources>
